@@ -9,6 +9,4 @@ One example of transfer learning is using ChatGPT, or any other Large Language M
 
 In this notebook, we shall use PyTorch to come up with a convolutional neural network via transfer learning.
 
-Much of what follows came from [Sasank Chilakurthy's tutorial on PyTorch documentation](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html).
-
 In the end, we are able to achieve an accuracy of around 94% with only 6 epochs, demonstrating the usefulness of transfer learning.
