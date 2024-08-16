@@ -7,6 +7,6 @@ Transfer learning is the use of model structures and/or parameters that others h
 
 One example of transfer learning is using ChatGPT, or any other Large Language Model (LLM), for specific tasks within a company. Another example of transfer learning is using an image classifier to classify only a few hundreds of personal images.
 
-In this notebook, we shall use PyTorch to come up with a convolutional neural network via transfer learning.
+We have used PyTorch to come up with a convolutional neural network for binary classification task to classify pictures of ants and bees via transfer learning
 
 In the end, we are able to achieve an accuracy of around 94% with only 6 epochs, demonstrating the usefulness of transfer learning.
